@@ -9,7 +9,7 @@ You just need to have Mojo installed (see: https://docs.modular.com/mojo/manual/
 and Python with JAX installed (see: https://github.com/google/jax).  
 
 ### Results
-I'm running a GTX 970M in my nearly 10 year old laptop and this was what I got as output:  
+I'm running an i7 4710HQ and a GTX 970M in my nearly 10 year old laptop and this was what I got as output:  
 
 
     CPU Results  
